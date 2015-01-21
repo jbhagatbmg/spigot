@@ -5,8 +5,9 @@ spigot installer and run scripts + install craftbukkit in local repo
 
 In order to install spigot, run:
 
-```./install <DIR>````
-where <DIR> is the target directory (must exist).
+```./install <DIR>```
+
+where ```<DIR>``` is the target directory (must exist).
 
 This script will download the spigot installer and run it (it downloads the minecraft server, and creates the bukkit api compatible version).
 
